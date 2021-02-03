@@ -12,7 +12,7 @@
 In the previous lesson, we saw how to have routes dynamically render different
 components. However, as you may have noticed, each time we rendered one
 component, our previous component disappeared.
-
+ 
 In this code-along, we'll look at how `Route`s can be written inside components
 that are _themselves_ children of other `Route`s.
 
