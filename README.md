@@ -1,6 +1,12 @@
 # Nested Routes in React Router
 
+
+
+
 ## Objectives
+
+
+
 
 - Describe how to render JSX within a `Route`
 - Describe how __React Router__ allows nesting routes and URL parameters
@@ -26,6 +32,9 @@ emails. Clicking on one will trigger a more detailed display of that specific
 item or action on **another portion of the screen** instead of displaying an
 entirely new page. With this design, a user can navigate through many items in a
 list, looking at item details without ever leaving the page they are on.
+
+
+
 
 Consider how we might create this sort of design in regular React, without using
 `Route`s: we could create two sibling components, one for the 'master' list, and
